@@ -1,0 +1,61 @@
+{
+  "average": 58.0,
+  "mean": 58,
+  "median": 50,
+  "pokemon_data_list": [
+    {
+      "base_happiness": 50,
+      "color": "purple",
+      "height": 3,
+      "moves": [
+        "transform"
+      ],
+      "name": "ditto",
+      "weight": 40
+    },
+    {
+      "base_happiness": 70,
+      "color": "brown",
+      "height": 14,
+      "moves": [
+        "mega-punch",
+        "fire-punch"
+      ],
+      "name": "golem",
+      "weight": 3000
+    },
+    {
+      "base_happiness": 50,
+      "color": "yellow",
+      "height": 20,
+      "moves": [
+        "swords-dance",
+        "stomp"
+      ],
+      "name": "exeggutor",
+      "weight": 1200
+    },
+    {
+      "base_happiness": 50,
+      "color": "yellow",
+      "height": 4,
+      "moves": [
+        "mega-punch",
+        "pay-day"
+      ],
+      "name": "pikachu",
+      "weight": 60
+    },
+    {
+      "base_happiness": 70,
+      "color": "green",
+      "height": 9,
+      "moves": [
+        "swords-dance",
+        "cut"
+      ],
+      "name": "chikorita",
+      "weight": 64
+    }
+  ]
+}

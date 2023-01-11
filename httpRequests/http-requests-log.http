@@ -1,0 +1,9 @@
+GET http://localhost:5000/justin-five-favorite-pokemon
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-01-11T143509.200.json
+
+###
+
