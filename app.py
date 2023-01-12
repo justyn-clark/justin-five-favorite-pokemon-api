@@ -49,7 +49,3 @@ def get_pokemon():
     median = statistics.median(base_happiness)
     # Return the extracted data and statistics as a JSON object
     return jsonify(pokemon_data_list=pokemon_data_list, average=average, mean=mean, median=median)
-
-
-if __name__ == '__main__':
-    app.run(debug=True)
