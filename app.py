@@ -35,7 +35,7 @@ def get_pokemon():
             height = pokemon_data['height']
             weight = pokemon_data['weight']
             moves = [move['move']['name'] for move in pokemon_data['moves']]
-            # Randomize moves from the JSON object
+            # Randomize moves in list
             random.shuffle(moves)
             pokemon_data_list.append(
                 {'name': name, 'height': height, 'weight': weight, 'moves': moves[:2], 'color': color,
